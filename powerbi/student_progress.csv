@@ -1,0 +1,33 @@
+course_code,title,credits,category,status
+ITI 1120,Introduction to Computing I,3,core,Completed
+ITI 1121,Introduction to Computing II,3,core,Completed
+MAT 1320,Calculus I,3,math,Completed
+MAT 1322,Calculus II,3,math,Completed
+MAT 1341,Introduction to Linear Algebra,3,math,Completed
+MAT 1348,Discrete Mathematics for Computing,3,math,Completed
+MAT 2371,Introduction to Probability,3,math,Not taken
+MAT 2375,Introduction to Statistics,3,math,Not taken
+STA 2391,Introduction to Statistics,3,math,Completed
+CSI 2101,Discrete Structures,3,core,Completed
+CSI 2110,Data Structures and Algorithms,3,core,Completed
+CSI 2120,Programming Paradigms,3,core,Not taken
+CSI 2132,Databases I,3,core,Not taken
+CSI 3105,Design and Analysis of Algorithms I,3,core,Not taken
+CSI 3130,Databases II,3,core,Not taken
+CSI 3140,"WWW Structures, Techniques and Applications",3,core,Not taken
+CEG 2136,Computer Architecture I,3,core,Completed
+SEG 2105,Introduction to Software Engineering,3,core,Completed
+SEG 2106,Software Construction,3,cs-elective,Not taken
+SEG 3101,Software Requirements Analysis,3,cs-elective,Not taken
+SEG 3102,Software Design and Architecture,3,cs-elective,Not taken
+SEG 3125,Analysis and Design of User Interfaces,3,cs-elective,Not taken
+SEG 4105,Software Project Management,3,cs-elective,Not taken
+CSI 4106,Introduction to Artificial Intelligence,3,cs-elective,Not taken
+CSI 4108,Computer Security,3,cs-elective,Not taken
+CEG 3136,Computer Architecture II,3,cs-elective,Not taken
+CEG 3185,Introduction to Data Communications and Networking,3,cs-elective,Not taken
+BIO 1130,Introduction to Organismal Biology,3,science,Not taken
+CHM 1311,Principles of Chemistry,3,science,Not taken
+PHY 1121,Fundamentals of Physics I,3,science,Not taken
+ADM 2320,Marketing,3,free-elective,Completed
+ADM 2336,Organizational Behaviour,3,free-elective,Completed

@@ -1,0 +1,6 @@
+group_id,group_name,required_units,required_courses,choose_from,choose_count
+core_cs,Core Computer Science,33,ITI 1120;ITI 1121;CSI 2101;CSI 2110;CSI 2120;CSI 2132;CSI 3105;CSI 3130;CSI 3140;CEG 2136;SEG 2105,,0
+mathematics,Mathematics,15,MAT 1320;MAT 1322;MAT 1341;MAT 1348,MAT 2371;MAT 2375;STA 2391,1
+science,Science Electives,6,,BIO 1130;CHM 1311;PHY 1121,2
+cs_electives,CS Electives (3000/4000 level),24,,CSI 3105;CSI 3130;CSI 3140;CSI 4106;CSI 4108;CEG 3136;CEG 3185;SEG 2106;SEG 3101;SEG 3102;SEG 3125;SEG 4105,8
+free_electives,Free Electives,42,,,14

@@ -1,0 +1,572 @@
+[
+ {
+  "category": "core",
+  "code": "ITI 1120",
+  "credits": 3,
+  "description": "Introduction to programming: variables, control flow, functions, and basic problem solving in Python.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Computing I",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "ITI 1121",
+  "credits": 3,
+  "description": "Object-oriented programming in Java: classes, inheritance, polymorphism, and introductory data structures.",
+  "prerequisites": [
+   "ITI 1120"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Computing II",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 1320",
+  "credits": 3,
+  "description": "Limits, derivatives, and integrals of functions of one variable.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Calculus I",
+  "tracks": [
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 1322",
+  "credits": 3,
+  "description": "Integration techniques, sequences and series, and applications of integration.",
+  "prerequisites": [
+   "MAT 1320"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Calculus II",
+  "tracks": [
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 1341",
+  "credits": 3,
+  "description": "Vectors, matrices, linear systems, eigenvalues and eigenvectors.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Linear Algebra",
+  "tracks": [
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 1348",
+  "credits": 3,
+  "description": "Logic, sets, functions, relations, induction, and combinatorics for computing.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Discrete Mathematics for Computing",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 2371",
+  "credits": 3,
+  "description": "Probability spaces, random variables, distributions, and expectation.",
+  "prerequisites": [
+   "MAT 1322"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Probability",
+  "tracks": [
+   "artificial-intelligence",
+   "data-science",
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "MAT 2375",
+  "credits": 3,
+  "description": "Estimation, hypothesis testing, regression, and statistical inference.",
+  "prerequisites": [
+   "MAT 1322"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Statistics",
+  "tracks": [
+   "data-science",
+   "artificial-intelligence"
+  ]
+ },
+ {
+  "category": "math",
+  "code": "STA 2391",
+  "credits": 3,
+  "description": "Introductory statistics course taken by the sample student in Summer 2026.",
+  "prerequisites": [
+   "MAT 1322"
+  ],
+  "terms": [
+   "Summer"
+  ],
+  "title": "Introduction to Statistics",
+  "tracks": [
+   "data-science",
+   "artificial-intelligence"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 2101",
+  "credits": 3,
+  "description": "Graphs, trees, counting, recurrence relations, and formal reasoning.",
+  "prerequisites": [
+   "MAT 1348"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Discrete Structures",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 2110",
+  "credits": 3,
+  "description": "Stacks, queues, trees, heaps, hash tables, graphs, and algorithm analysis.",
+  "prerequisites": [
+   "ITI 1121",
+   "CSI 2101"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Data Structures and Algorithms",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 2120",
+  "credits": 3,
+  "description": "Functional, logic, and object-oriented programming paradigms.",
+  "prerequisites": [
+   "ITI 1121"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Programming Paradigms",
+  "tracks": [
+   "software-engineering",
+   "artificial-intelligence"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 2132",
+  "credits": 3,
+  "description": "Relational model, SQL, database design, and normalization.",
+  "prerequisites": [
+   "ITI 1121"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Databases I",
+  "tracks": [
+   "software-engineering",
+   "data-science",
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 3105",
+  "credits": 3,
+  "description": "Algorithm design techniques, complexity analysis, divide and conquer, dynamic programming, and greedy algorithms.",
+  "prerequisites": [
+   "CSI 2110",
+   "MAT 1348"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Design and Analysis of Algorithms I",
+  "tracks": [
+   "software-engineering",
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 3130",
+  "credits": 3,
+  "description": "Transaction management, query processing, indexing, and advanced database systems.",
+  "prerequisites": [
+   "CSI 2132"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Databases II",
+  "tracks": [
+   "data-science",
+   "software-engineering",
+   "artificial-intelligence"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CSI 3140",
+  "credits": 3,
+  "description": "Web architectures, client/server technologies, and web application development.",
+  "prerequisites": [
+   "CSI 2132"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "WWW Structures, Techniques and Applications",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "CEG 2136",
+  "credits": 3,
+  "description": "Digital logic, processor organization, memory hierarchy, and assembly programming.",
+  "prerequisites": [
+   "ITI 1121"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Computer Architecture I",
+  "tracks": [
+   "software-engineering",
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "core",
+  "code": "SEG 2105",
+  "credits": 3,
+  "description": "Software development lifecycle, requirements, design, testing, and team-based project work.",
+  "prerequisites": [
+   "ITI 1121"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Introduction to Software Engineering",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "SEG 2106",
+  "credits": 3,
+  "description": "Practical software construction: APIs, frameworks, build tools, and code quality.",
+  "prerequisites": [
+   "ITI 1121",
+   "SEG 2105"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Software Construction",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "SEG 3101",
+  "credits": 3,
+  "description": "Eliciting, modelling, and validating software requirements; use cases and specifications.",
+  "prerequisites": [
+   "SEG 2105"
+  ],
+  "terms": [
+   "Fall",
+   "Winter",
+   "Summer"
+  ],
+  "title": "Software Requirements Analysis",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "SEG 3102",
+  "credits": 3,
+  "description": "Architectural patterns, design principles, and large-scale system design.",
+  "prerequisites": [
+   "SEG 2106",
+   "SEG 3101"
+  ],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Software Design and Architecture",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "SEG 3125",
+  "credits": 3,
+  "description": "User-centred design, usability, prototyping, and interface evaluation.",
+  "prerequisites": [
+   "SEG 2105"
+  ],
+  "terms": [
+   "Fall"
+  ],
+  "title": "Analysis and Design of User Interfaces",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "SEG 4105",
+  "credits": 3,
+  "description": "Planning, estimation, risk management, and Agile delivery of software projects.",
+  "prerequisites": [
+   "SEG 3102"
+  ],
+  "terms": [
+   "Winter"
+  ],
+  "title": "Software Project Management",
+  "tracks": [
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "CSI 4106",
+  "credits": 3,
+  "description": "Search, knowledge representation, reasoning, and machine learning fundamentals.",
+  "prerequisites": [
+   "CSI 2110",
+   "CSI 3105"
+  ],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Introduction to Artificial Intelligence",
+  "tracks": [
+   "artificial-intelligence",
+   "data-science"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "CSI 4108",
+  "credits": 3,
+  "description": "Threat models, cryptography, access control, and secure system design.",
+  "prerequisites": [
+   "CSI 2110",
+   "CEG 2136"
+  ],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Computer Security",
+  "tracks": [
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "CEG 3136",
+  "credits": 3,
+  "description": "Pipelining, caching, parallel architectures, and performance analysis.",
+  "prerequisites": [
+   "CEG 2136"
+  ],
+  "terms": [
+   "Winter"
+  ],
+  "title": "Computer Architecture II",
+  "tracks": [
+   "cybersecurity",
+   "software-engineering"
+  ]
+ },
+ {
+  "category": "cs-elective",
+  "code": "CEG 3185",
+  "credits": 3,
+  "description": "Network protocols, the Internet stack, routing, and network security basics.",
+  "prerequisites": [
+   "CEG 2136"
+  ],
+  "terms": [
+   "Fall"
+  ],
+  "title": "Introduction to Data Communications and Networking",
+  "tracks": [
+   "cybersecurity"
+  ]
+ },
+ {
+  "category": "science",
+  "code": "BIO 1130",
+  "credits": 3,
+  "description": "Diversity of life, evolution, and organismal biology.",
+  "prerequisites": [],
+  "terms": [
+   "Fall"
+  ],
+  "title": "Introduction to Organismal Biology",
+  "tracks": []
+ },
+ {
+  "category": "science",
+  "code": "CHM 1311",
+  "credits": 3,
+  "description": "Atomic structure, bonding, thermodynamics, and chemical equilibrium.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Principles of Chemistry",
+  "tracks": []
+ },
+ {
+  "category": "science",
+  "code": "PHY 1121",
+  "credits": 3,
+  "description": "Mechanics, waves, and an introduction to modern physics.",
+  "prerequisites": [
+   "MAT 1320"
+  ],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Fundamentals of Physics I",
+  "tracks": []
+ },
+ {
+  "category": "free-elective",
+  "code": "ADM 2320",
+  "credits": 3,
+  "description": "Marketing fundamentals: consumer behaviour, segmentation, and the marketing mix.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Marketing",
+  "tracks": []
+ },
+ {
+  "category": "free-elective",
+  "code": "ADM 2336",
+  "credits": 3,
+  "description": "Individual and group behaviour in organizations, motivation, and leadership.",
+  "prerequisites": [],
+  "terms": [
+   "Fall",
+   "Winter"
+  ],
+  "title": "Organizational Behaviour",
+  "tracks": []
+ }
+]

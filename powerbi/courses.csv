@@ -1,0 +1,33 @@
+course_code,title,credits,category,prerequisites,terms_offered,tracks
+ITI 1120,Introduction to Computing I,3,core,,Fall;Winter;Summer,software-engineering;cybersecurity;artificial-intelligence;data-science
+ITI 1121,Introduction to Computing II,3,core,ITI 1120,Fall;Winter;Summer,software-engineering;cybersecurity;artificial-intelligence;data-science
+MAT 1320,Calculus I,3,math,,Fall;Winter;Summer,artificial-intelligence;data-science
+MAT 1322,Calculus II,3,math,MAT 1320,Fall;Winter;Summer,artificial-intelligence;data-science
+MAT 1341,Introduction to Linear Algebra,3,math,,Fall;Winter;Summer,artificial-intelligence;data-science
+MAT 1348,Discrete Mathematics for Computing,3,math,,Fall;Winter;Summer,software-engineering;cybersecurity;artificial-intelligence;data-science
+MAT 2371,Introduction to Probability,3,math,MAT 1322,Fall;Winter;Summer,artificial-intelligence;data-science;cybersecurity
+MAT 2375,Introduction to Statistics,3,math,MAT 1322,Fall;Winter;Summer,data-science;artificial-intelligence
+STA 2391,Introduction to Statistics,3,math,MAT 1322,Summer,data-science;artificial-intelligence
+CSI 2101,Discrete Structures,3,core,MAT 1348,Fall;Winter;Summer,software-engineering;cybersecurity;artificial-intelligence;data-science
+CSI 2110,Data Structures and Algorithms,3,core,ITI 1121;CSI 2101,Fall;Winter;Summer,software-engineering;cybersecurity;artificial-intelligence;data-science
+CSI 2120,Programming Paradigms,3,core,ITI 1121,Fall;Winter;Summer,software-engineering;artificial-intelligence
+CSI 2132,Databases I,3,core,ITI 1121,Fall;Winter;Summer,software-engineering;data-science;cybersecurity
+CSI 3105,Design and Analysis of Algorithms I,3,core,CSI 2110;MAT 1348,Fall;Winter;Summer,software-engineering;artificial-intelligence;data-science
+CSI 3130,Databases II,3,core,CSI 2132,Fall;Winter;Summer,data-science;software-engineering;artificial-intelligence
+CSI 3140,"WWW Structures, Techniques and Applications",3,core,CSI 2132,Fall;Winter;Summer,software-engineering;cybersecurity
+CEG 2136,Computer Architecture I,3,core,ITI 1121,Fall;Winter;Summer,software-engineering;cybersecurity
+SEG 2105,Introduction to Software Engineering,3,core,ITI 1121,Fall;Winter;Summer,software-engineering
+SEG 2106,Software Construction,3,cs-elective,ITI 1121;SEG 2105,Fall;Winter;Summer,software-engineering
+SEG 3101,Software Requirements Analysis,3,cs-elective,SEG 2105,Fall;Winter;Summer,software-engineering
+SEG 3102,Software Design and Architecture,3,cs-elective,SEG 2106;SEG 3101,Fall;Winter,software-engineering
+SEG 3125,Analysis and Design of User Interfaces,3,cs-elective,SEG 2105,Fall,software-engineering
+SEG 4105,Software Project Management,3,cs-elective,SEG 3102,Winter,software-engineering
+CSI 4106,Introduction to Artificial Intelligence,3,cs-elective,CSI 2110;CSI 3105,Fall;Winter,artificial-intelligence;data-science
+CSI 4108,Computer Security,3,cs-elective,CSI 2110;CEG 2136,Fall;Winter,cybersecurity
+CEG 3136,Computer Architecture II,3,cs-elective,CEG 2136,Winter,cybersecurity;software-engineering
+CEG 3185,Introduction to Data Communications and Networking,3,cs-elective,CEG 2136,Fall,cybersecurity
+BIO 1130,Introduction to Organismal Biology,3,science,,Fall,
+CHM 1311,Principles of Chemistry,3,science,,Fall;Winter,
+PHY 1121,Fundamentals of Physics I,3,science,MAT 1320,Fall;Winter,
+ADM 2320,Marketing,3,free-elective,,Fall;Winter,
+ADM 2336,Organizational Behaviour,3,free-elective,,Fall;Winter,
